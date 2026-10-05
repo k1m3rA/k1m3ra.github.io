@@ -1,0 +1,9 @@
+﻿[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.kimera.arde",
+    "sha256_cert_fingerprints":
+    ["C4:B5:AD:F1:4A:4E:3D:04:F3:D3:F2:41:4C:B5:FA:73:CC:E0:EE:8A:9D:1F:41:35:07:08:35:F6:35:B5:B9:3F"]
+  }
+}]
